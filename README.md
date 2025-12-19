@@ -2,7 +2,6 @@
 ## Participantes
 - **Miguel Grigato Garbo** - Scrum Master
 - **Pablo Alberto Centurion Leguizamon Junior**
-- **Cristiano Rubens Kerber** - Product Owner
 
 ## Descrição do Projeto
 
